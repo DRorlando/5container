@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang=em>
+      <head>
+	        
+			<meta charset="utf-8"/>
+			 <title>This is page too</title>
+			 <link rel="stylesheet" type="text/css" href="styles.css" media="all">
+		</head>
+                <body>
+				      
+			 <div id="wrapper">
+					  
+                      <div id="header">
+                      
+                      </div>
+					  
+                        <div id="nav">
+ 
+                        </div> 
+				
+				       <div id="content">
+					   
+					   </div>
+					   
+					   <div id="sidebar">
+					   
+					   </div>
+					   
+					   
+					   <div id="footer">
+					   
+					   </div>
+			</div id="wrapper">		   
+                </body>
+
+</html>				
